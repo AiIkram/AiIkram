@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aissiou Ikram
-- 👀 I’m interested in web dev , reading, sports, drawing  and writing. 
-- 🌱 I’m currently majoring in computer science and software engineering. 
+- 👀 I’m interested in web dev, AI, Data science, reading, sports, drawing  and writing. 
+- 🌱 first year Master student in Data science
 
 
 <!---
