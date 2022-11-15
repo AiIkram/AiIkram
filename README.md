@@ -2,7 +2,8 @@
 - 👀 I’m interested in web dev, AI, Data science, reading, sports, drawing  and writing. 
 - 🌱 first year Master student in Data science
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AiIkram&theme=dracula)](https://github.com/AiIkram/github-readme-stats)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AiIkram&show_icons=true&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AiIkram&theme=tokyonight)
 
 
 <!---
