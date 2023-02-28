@@ -3,9 +3,7 @@
 - 🌱 first year Master student in Data science
 
   [![Ikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=AiIkram)](https://github.com/AiIkram/github-readme-stats)
-  ![Ikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=AiIkram&show_icons=true)
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AiIkram&show_icons=true&theme=tokyonight)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AiIkram&theme=tokyonight)
+  ![Ikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=AiIkram&show_icons=true&theme=tokyonight)
 
 
 <!---
