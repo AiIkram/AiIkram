@@ -7,7 +7,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ikram--aissiou-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikram-aissiou/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-datascienceportfol.io-1a1a2e?style=for-the-badge&logo=firefox&logoColor=white)](https://www.datascienceportfol.io/aissiouikram47)
+[![Portfolio](https://img.shields.io/badge/Portfolio-datascienceportfol.io-1a1a2e?style=for-the-badge&logo=firefox&logoColor=white)](https://aiikram.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-aissiouikram47@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aissiouikram47@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=xvTADnEAAAAJ&hl=en)
 
@@ -17,27 +17,31 @@
 
 ## 🧠 About Me
 
-I'm a **Clinical Data Scientist** building a research career at the intersection of **AI and medicine**. My work spans medical imaging, graph neural networks, and neuroscience — developing models that can support clinicians with more accurate, consistent, and accessible diagnostics.
+I'm a **Data Scientist and medical AI researcher** working at the intersection of **AI and medicine**. My primary research interest is **pediatric brain tumor MRI segmentation**, with a focus on developing reliable AI models that generalize across patient groups and imaging settings. My broader research spans medical imaging, graph neural networks, neuroscience, and clinical AI reliability.
 
-- 🔬 **Presented at MICCAI 2025** — poster presentation on breast cancer segmentation in DCE-MRI
-- 🎓 Currently in the **BASIRA 2026 Program** (Master GNNs for Rising Stars) @ Imperial College London (I-X), under Prof. Islem Rekik
-- 🏆 **Designed and ran a GNN competition** on Parkinson's detection — 18 forks, live leaderboard, auto-scoring
-- 💼 Data Scientist at **CAAT** (Compagnie Algérienne des Assurances) — building AI-driven risk models
-- 🌍 Seeking a **PhD position** in medical AI — oncology, neuroimaging, or clinical informatics
-- 📍 Based in Algiers, Algeria
+- 🧠 **Research focus:** Pediatric brain tumor segmentation, transfer learning, uncertainty-aware AI, and domain shift
+- 🔬 **MICCAI research:** Contributions to medical imaging research at MICCAI 2025 and MICCAI 2026 workshops and challenges
+- 📄 **EMNLP 2026:** Co-author of GNN-CB, a GNN competition benchmark for human and LLM evaluation
+- 🎓 **BASIRA 2026 Program:** Master GNNs for Rising Stars, under Prof. Islem Rekik
+- 🏆 **PARK-GNN Challenge:** Designed and organized a GNN competition for Parkinson's disease detection, with automated scoring and a live leaderboard
+- 💼 **Current role:** Head of Risk Management Department at CCR, developing data-driven tools for risk monitoring and decision support
+- 🌍 Based in Algiers, Algeria; interested in research collaborations and academic opportunities
 
 ---
 
 ## 🔬 Active Research (2025–2026)
 
-> *These projects are currently in progress. Repos will be made public as work matures.*
+> My research interests center on pediatric brain tumor MRI segmentation and reliable medical AI, alongside graph learning and clinical applications.
 
 | Project | Description | Methods |
 |---|---|---|
-| 🧠 **Pediatric Brain Cancer Segmentation** | Tumor segmentation in pediatric brain MRI using transfer learning from adult models | nnU-Net · Transfer Learning · 3D MRI |
-| 🧬 **Parkinson's Early Detection** | Early-stage PD biomarker detection from multi-modal clinical data | GNNs · Acoustic Features · Classification |
-| ⚡ **GNN for EEG Stroke Detection** | Graph-based modeling of EEG signals for early stroke detection | GNNs · EEG · Signal Processing |
-
+| 🧠 **Pediatric Brain Tumor Segmentation** | Investigating robust tumor segmentation in pediatric brain MRI, including transfer learning from adult models and the effects of age-related domain shift | nnU-Net · Transfer Learning · 3D MRI |
+| 🩺 **Reliable Medical AI** | Investigating dataset reliability, uncertainty, and robustness in clinical AI systems | Model Evaluation · Uncertainty · Domain Shift |
+| 🧬 **Parkinson's Disease Detection** | Multimodal and graph-based approaches for Parkinson's disease detection | GNNs · Deep Learning · Clinical Data |
+| ⚡ **Patient-Independent Seizure Detection** | Spatial-temporal graph state-space modeling of EEG signals | GNNs · EEG · NeuroGraphMamba |
+| 🧠 **Ischemic Stroke Lesion Segmentation** | Systematic comparison of nnU-Net approaches for ischemic stroke lesion segmentation | nnU-Net · MRI · ISLES'26 |
+| 🩻 **Head and Neck Tumor Analysis** | Joint tumor segmentation, TN staging, and recurrence-free survival prediction | Deep Learning · Medical Imaging · HECKTOR |
+| 🔗 **GNN-CB Benchmark** | Benchmarking GNN competition tasks for human and large language model evaluation | GNNs · Benchmarking · LLMs |
 ---
 
 ## 🏆 Highlighted Work
@@ -68,6 +72,59 @@ I'm a **Clinical Data Scientist** building a research career at the intersection
 - Covers GNN concepts: GCN, GAT, GraphSAGE, message passing, class imbalance handling
 
 📎 [View Challenge Repository](https://github.com/AiIkram/gnn-parkinsons-challenge) · [🏆 Live Leaderboard](https://aiikram.github.io/gnn-parkinsons-challenge/)
+
+---
+---
+
+## 🧠 MICCAI 2026 Research
+
+### 🩻 HECKTOR 2026 — Head and Neck Tumor Analysis
+
+**A Dual-Branch Fusion Pipeline for Head and Neck Tumor Segmentation, TN Staging, and Recurrence-Free Survival Prediction: HECKTOR 2026**
+
+> *First Author · HECKTOR Challenge @ MICCAI 2026 · Poster*
+
+- Focuses on head and neck tumor segmentation, TN staging, and recurrence-free survival prediction.
+- Combines multiple prediction tasks within a dual-branch deep learning pipeline.
+
+### 🧠 ISLES'26 — Ischemic Stroke Lesion Segmentation
+
+**From Baseline to Bilateral Asymmetry: A Systematic nnU-Net Comparison for Ischemic Stroke Lesion Segmentation in ISLES'26**
+
+> *Co-First Author · SWITCH+ Workshop @ MICCAI 2026*
+
+- Systematically compares nnU-Net approaches for ischemic stroke lesion segmentation.
+- Investigates segmentation strategies for medical imaging analysis.
+
+### ⚡ NeuroGraphMamba — Epileptic Seizure Detection
+
+**NeuroGraphMamba: A Spatial-Temporal Graph State-Space Architecture for Patient-Independent Epileptic Seizure Detection**
+
+> *First Author · AMAI Workshop @ MICCAI 2026 · Poster*
+
+- Develops a spatial-temporal graph state-space approach for EEG-based seizure detection.
+- Focuses on patient-independent evaluation and graph-based representation learning.
+
+---
+
+## 🔗 GNN-CB — GNN Competition Benchmark
+
+**GNN-CB: A GNN Competition Benchmark for Human and LLM Evaluation**
+
+> *Co-author · EMNLP 2026 Main Conference · Accepted*
+
+- Examines graph neural network competition tasks as a benchmark for evaluating human and large language model performance.
+- Connects graph learning, benchmarking, and LLM evaluation.
+
+🔗 [GNN-CB Project Page](https://basiralab.github.io/GNN-CB/)
+
+---
+
+## 🧪 Ongoing Journal Research
+
+- **Beyond Accuracy: A Framework for Dataset Reliability in Clinical AI** — *Computer Methods and Programs in Biomedicine* · Under review.
+- **Tri-Modal Deep Learning Framework for Parkinson's Disease Detection** — *IEEE Transactions on Neural Systems and Rehabilitation Engineering* · Under review.
+- **LLM Benchmark for Parkinson's Disease Clinical Reasoning** — *IEEE Journal of Biomedical and Health Informatics* · Under review.
 
 ---
 
@@ -138,9 +195,10 @@ I'm a **Clinical Data Scientist** building a research career at the intersection
 
 ## 🤝 Open To
 
-- 🎓 **PhD positions** in medical AI, clinical data science, or computational medicine
-- 🔬 **Remote research collaborations** in oncology, neuroimaging, or clinical informatics
-- 🧑‍🏫 **Mentorship exchanges** — I design challenges, teach, and love learning from others
+- 🎓 **PhD opportunities** in medical AI, with a particular interest in pediatric brain tumor segmentation and reliable AI
+- 🔬 **Research collaborations** in pediatric neuro-oncology, medical imaging, uncertainty estimation, and domain shift
+- 🧠 **Collaborative projects** in graph neural networks, neuroscience, and clinical AI
+- 🧑‍🏫 **Academic and teaching opportunities**, research mentorship, and scientific collaborations
 
 > *"The goal is not just to build models that perform, but models that help people."*
 
