@@ -7,7 +7,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ikram--aissiou-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikram-aissiou/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-datascienceportfol.io-1a1a2e?style=for-the-badge&logo=firefox&logoColor=white)](https://aiikram.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub-1a1a2e?style=for-the-badge&logo=firefox&logoColor=white)](https://aiikram.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-aissiouikram47@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aissiouikram47@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=xvTADnEAAAAJ&hl=en)
 
